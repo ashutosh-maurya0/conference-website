@@ -1,0 +1,428 @@
+body,
+.main_menu .cws_megamenu_item{
+    font-family: Raleway;
+    font-size: 16px;
+    line-height: 26px;
+    color: #545454;
+}#wp-calendar td#prev a:before,
+#wp-calendar td#next a:before,
+.widget #searchform .screen-reader-text:before,
+#search_bar_item input[name='s']{
+    font-size:16px;
+}.site_header#sticky.alt .main_menu .menu-item,
+    .unilearn_button,
+    .unilearn_button.alt:hover,
+    .testimonial.without_image .author_info + .author_info:before{
+    color: #545454;
+}.site_header#sticky.alt .main_menu.sandwich .sandwich_switcher .ham,
+.site_header#sticky.alt .main_menu.sandwich .sandwich_switcher .ham:before,
+.site_header#sticky.alt .main_menu.sandwich .sandwich_switcher .ham:after{
+    background-color: #545454;
+}.widget ul>li.recentcomments:before,
+.widget ul>li.recentcomments:after{
+    width: 26px;
+    height: 26px;
+}
+.widget .menu .pointer{
+    height: 26px;
+}
+.dropcap{
+    line-height: -webkit-calc(26px*2);
+    line-height: -ms-calc(26px*2);
+    line-height: calc(26px*2);
+    width: -webkit-calc(26px*2);
+    width: -ms-calc(26px*2);
+    width: calc(26px*2);
+}
+
+.main_menu .menu-item,
+#mobile_menu .megamenu_item_column_title,
+#mobile_menu .widget_nav_menu .menu-item{
+    font-family: Raleway;
+    font-size: 16px;
+    line-height: 36px;
+    color: #eee7c9;
+}.main_menu.sandwich .sandwich_switcher .ham,
+.main_menu.sandwich .sandwich_switcher .ham:before,
+.main_menu.sandwich .sandwich_switcher .ham:after,
+#mobile_header .sandwich_switcher .ham,
+#mobile_header .sandwich_switcher .ham:before,
+#mobile_header .sandwich_switcher .ham:after{
+    background-color: #eee7c9;
+}.main_menu > .menu-item + .menu-item:before{
+    height:16px;
+}.cws_megamenu_item .megamenu_item_column_title .pointer{
+    font-size:16px;
+}#mobile_menu .menu-item:hover{
+    color:#eee7c9;
+}
+.widgettitle{
+    font-family: Merriweather;
+    font-size: 28px;
+    line-height: 39px;
+    color: #333333;
+}.widgettitle + .carousel_nav{
+    line-height: 39px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: Merriweather;
+    color: #333333;
+}ul, ol, blockquote, .widget ul a,
+.widget_header .carousel_nav > *:hover,
+.unilearn_sc_carousel_header .carousel_nav > *:hover,
+.pagination .page_links > a,
+#comments .comment_meta,
+.cws_staff_post.posts_grid_post:hover .post_title,
+.pricing_plan_content ul,
+.cws_megamenu_item .megamenu_item_column_title{
+    color: #333333;
+}.widget_header .carousel_nav > *:hover,
+.unilearn_sc_carousel_header .carousel_nav > *:hover{
+    border-color: #333333;
+}#banner_404,
+.pricing_plan_price{
+font-family: Merriweather;
+}
+@media screen and ( min-width: 981px ){
+    #page.single_sidebar .cws_staff_posts_grid.posts_grid_2 .cws_staff_post_title.posts_grid_post_title,
+    #page.double_sidebar .cws_staff_posts_grid.posts_grid_2 .cws_staff_post_title.posts_grid_post_title{
+        color: #333333;							
+    }
+}
+
+@media screen and ( max-width: 479px ){
+    .cws_staff_post_title.posts_grid_post_title{
+        color: #333333;							
+    }
+}
+
+a,
+                ul li:before,
+                ul.custom_icon_style .list_list,
+                q:before, q:after,
+                .main_menu .menu-item:hover,
+                .main_menu .menu-item.current-menu-item,
+                .main_menu .menu-item.current-menu-ancestor,
+                #main_menu > .menu-item:hover,
+                #main_menu > .menu-item.current-menu-item,
+                #main_menu > .menu-item.current-menu-ancestor,
+                #page_title,
+                #page_title_section .bread-crumbs a:hover,
+                .widget ul a:hover,
+                .widget .social_icon,
+                .latest_tweets .tweet:before,
+                .gallery_post_carousel_nav:hover,
+                h1 > a:hover,
+                h2 > a:hover,
+                h3 > a:hover,
+                h4 > a:hover,
+                h5 > a:hover,
+                h6 > a:hover,
+                .post_posts_grid_post_content.read_more_alt .more-link:hover,
+                .post_post_terms,
+                .cws_portfolio_post_terms,
+                #comments .comments_number,
+                #comments .author_name,
+                .wp-playlist-light .wp-playlist-current-item:before,
+                .wp-playlist-light .wp-playlist-tracks .wp-playlist-playing,
+                .cws_staff_post_terms.single_post_terms,
+                #footer_widgets .widget ul a:hover,
+                #footer_social .social_icon:hover,
+                #banner_404_title,
+                .unilearn_icon,
+                .unilearn_icon.alt.hovered:hover,
+                .banner_icon,
+                .unilearn_milestone,
+                .unilearn_services_title,
+                .unilearn_services_column:hover .unilearn_services_icon i,
+                .testimonial .author_status,
+                .pricing_plan_price,
+                .vc_images_carousel .vc_carousel-control .icon-next:hover,
+                .vc_images_carousel .vc_carousel-control .icon-prev:hover,
+                .cws_twitter .cws_twitter_icon i,
+                .select2-results .select2-highlighted,
+                .widget_icon,
+                .cws_megamenu_item .widget.widget_nav_menu .menu-item:hover,
+                .cws_megamenu_item .widget.widget_nav_menu .menu-item:hover > a,
+                .cws_megamenu_item .widget.widget_nav_menu .menu-item:hover > span,
+                .cws_megamenu_item .widget.widget_nav_menu .menu-item:hover > .pointer,
+                .cta_icon,
+                span.wpcf7-form-control-wrap:first-of-type:last-of-type:first-child input.wpcf7-validates-as-required.wpcf7-not-valid + .wpcf7-not-valid-tip:after{
+color: #7b3c2d;
+}
+            hr:before,
+            .post_terms .v_sep,
+            .cws_staff_social_links.single_social_links > a + a{
+border-left-color: #7b3c2d;
+}
+            abbr{
+border-bottom-color: #7b3c2d;
+}
+            mark,
+            .unilearn_button:hover,
+            .more-link:hover,
+            input[type='submit']:hover,
+            button:hover,
+            #top_panel_bar #searchsubmit,
+            #top_panel_bar #searchsubmit:hover,
+            .widget ul>li.recentcomments:after,
+            .widget .menu .pointer:before,
+            .widget .menu .pointer:after,
+            .widget .menu .menu-item.active,
+            .widget .menu .menu-item:hover,
+            .widget_social .social_icon:hover,
+            .post_post_header,
+            .pic .hover-effect,
+            .pagination .page_links > a:hover,
+            a[rel^="attachment"]:before,
+            .gallery .gallery-item a:before,
+            .pagination .page_links > span,
+            .cws_portfolio_posts_grid.posts_grid_2 .item:hover .posts_grid_divider,
+            .cws_portfolio_posts_grid.posts_grid_3 .item:hover .posts_grid_divider,
+            .cws_portfolio_posts_grid.posts_grid_4 .item:hover .posts_grid_divider,
+            .wp-playlist-light .wp-playlist-current-item,
+            .owl-pagination .owl-page.active,
+            #footer_widgets .widget .widget_header,
+            #footer_widgets .widgettitle,
+            .unilearn_icon.bordered.hovered:hover,
+            .unilearn_icon.alt,
+            .unilearn_button.alt,
+            .dropcap,
+            .unilearn_banner,
+            .unilearn_pb_progress,
+            .unilearn_services_icon i,
+            .unilearn_services_divider,
+            .pricing_plan_title,
+            .cws_staff_social_links.single_social_links a:hover,
+            #top_panel i{
+background-color: #7b3c2d;
+}
+            .unilearn_button,
+            .more-link,
+            input[type='submit'],
+            button,
+            .unilearn_icon.alt,
+            .widget .social_icon,
+            .latest_tweets .tweet:before,
+            .pagination .page_links > a:hover,
+            .pagination .page_links > span,
+            .owl-pagination .owl-page,
+            .unilearn_icon.bordered,
+            .unilearn_services_icon i,
+            .cws_staff_social_links.single_social_links,
+            .cws_twitter .cws_twitter_icon i,
+            .cta_icon,
+            span.wpcf7-form-control-wrap:first-of-type:last-of-type:first-child input.wpcf7-not-valid{
+border-color: #7b3c2d;
+}
+            .main_menu > .menu-item >.sub-menu,
+            .unilearn_services_column{
+border-top-color: #7b3c2d;
+}
+.star-rating>span:before,
+                .comment-form-rating .stars .stars-active{
+                    color: #f9cb8f;
+                }#top_panel_bar #search_bar_item input[name='s']{
+                    background-color: rgba(123,60,45,0.85);
+                }hr:before,
+                #top_panel_social_el,
+                .post_post_header .comments_link,
+                .unilearn_button.button_color_2:hover,
+                .unilearn_button.alt.button_color_2{
+                    background-color: #f9cb8f;
+                }unilearn_button.button_color_2{
+                    border-color: #f9cb8f;
+                }
+                thead th,
+                #wp-calendar th,
+                .widget #searchform .screen-reader-text,
+                .vc_toggle .vc_toggle_icon,
+                .unilearn_button.button_color_3,
+                span.wpcf7-form-control-wrap:first-of-type:last-of-type:first-child + input[type='submit']{
+border-color: #7b3c2d;
+}
+            .vc_tta.vc_general.vc_tta-tabs.vc_tta-tabs-position-top .vc_tta-tab.vc_active{
+border-top-color: #7b3c2d;
+}
+            .vc_tta.vc_general.vc_tta-tabs.vc_tta-tabs-position-bottom .vc_tta-tab.vc_active{
+border-bottom-color: #7b3c2d;
+}
+            hr:before{
+border-right-color: #7b3c2d;
+}
+            #wp-calendar td:not(#prev):not(#next) a,
+            #wp-calendar td:not(#prev):not(#next) a:before,
+            #wp-calendar td:not(#prev):not(#next) a:after,
+            .widget #searchform .screen-reader-text,
+            .vc_tta.vc_general.vc_tta-accordion .vc_tta-panel-title > a,
+            .vc_toggle.vc_toggle_active .vc_toggle_icon,
+            .unilearn_button.button_color_3:hover,
+            .unilearn_button.alt.button_color_3,
+            span.wpcf7-form-control-wrap:first-of-type:last-of-type:first-child + input[type='submit'],
+            .post_post.sticky > .post_post_header{
+background-color: #7b3c2d;
+}
+            #wp-calendar td#prev a:hover:before,
+            #wp-calendar td#next a:hover:before,
+            .widget #searchform .screen-reader-text.hover,
+            .vc_toggle .vc_toggle_icon,
+            .vc_toggle.vc_toggle_active .vc_toggle_title > h4{
+color: #7b3c2d;
+}
+            #scroll_to_top{
+background-color: #7b3c2d;
+}
+            .vc_tta.vc_general .vc_tta-panel.vc_active .vc_tta-panel-heading{
+                border-color: #7b3c2d !important;
+}
+            .vc_tta.vc_general .vc_tta-panel.vc_active .vc_tta-panel-title > a{
+                    background-color: #7b3c2d !important;
+}
+
+.vc_row.top_line,
+.vc_row.bottom_line{
+-webkit-border-image: -webkit-linear-gradient( left, transparent 0, transparent 15px, #f2f2f2 15px, #f2f2f2 -webkit-calc(50% - 65px), #7b3c2d -webkit-calc(50% - 65px), #7b3c2d -webkit-calc(50% - 20px), #f9cb8f -webkit-calc(50% - 20px), #f9cb8f -webkit-calc(50% + 25px), #7b3c2d -webkit-calc(50% + 25px), #7b3c2d -webkit-calc(50% + 70px), #f2f2f2 -webkit-calc(50% + 70px), #f2f2f2 -webkit-calc(100% - 15px), transparent -webkit-calc(100% - 15px), transparent 100% ) 1 0 round;
+border-image: -webkit-linear-gradient( left, transparent 0, transparent 15px, #f2f2f2 15px, #f2f2f2 -webkit-calc(50% - 65px), #7b3c2d -webkit-calc(50% - 65px), #7b3c2d -webkit-calc(50% - 20px), #f9cb8f -webkit-calc(50% - 20px), #f9cb8f -webkit-calc(50% + 25px), #7b3c2d -webkit-calc(50% + 25px), #7b3c2d -webkit-calc(50% + 70px), #f2f2f2 -webkit-calc(50% + 70px), #f2f2f2 -webkit-calc(100% - 15px), transparent -webkit-calc(100% - 15px), transparent 100% ) 1 0 round;
+border-image: linear-gradient( left, transparent 0, transparent 15px, #f2f2f2 15px, #f2f2f2 -webkit-calc(50% - 65px), #7b3c2d -webkit-calc(50% - 65px), #7b3c2d -webkit-calc(50% - 20px), #f9cb8f -webkit-calc(50% - 20px), #f9cb8f -webkit-calc(50% + 25px), #7b3c2d -webkit-calc(50% + 25px), #7b3c2d -webkit-calc(50% + 70px), #f2f2f2 -webkit-calc(50% + 70px), #f2f2f2 -webkit-calc(100% - 15px), transparent -webkit-calc(100% - 15px), transparent 100% ) 1 0 round;	
+-o-border-image: -o-linear-gradient( left, transparent 0, transparent 15px, #f2f2f2 15px, #f2f2f2 calc(50% - 65px), #7b3c2d calc(50% - 65px), #7b3c2d calc(50% - 20px), #f9cb8f calc(50% - 20px), #f9cb8f calc(50% + 25px), #7b3c2d calc(50% + 25px), #7b3c2d calc(50% + 70px), #f2f2f2 calc(50% + 70px), #f2f2f2 calc(100% - 15px), transparent calc(100% - 15px), transparent 100% ) 1 0 round;
+-moz-border-image: -moz-linear-gradient( left, transparent 0, transparent 15px, #f2f2f2 15px, #f2f2f2 -moz-calc(50% - 65px), #7b3c2d -moz-calc(50% - 65px), #7b3c2d -moz-calc(50% - 20px), #f9cb8f -moz-calc(50% - 20px), #f9cb8f -moz-calc(50% + 25px), #7b3c2d -moz-calc(50% + 25px), #7b3c2d -moz-calc(50% + 70px), #f2f2f2 -moz-calc(50% + 70px), #f2f2f2 -moz-calc(100% - 15px), transparent -moz-calc(100% - 15px), transparent 100% ) 1 0 round;
+-o-border-image: linear-gradient( left, transparent 0, transparent 15px, #f2f2f2 15px, #f2f2f2 calc(50% - 65px), #7b3c2d calc(50% - 65px), #7b3c2d calc(50% - 20px), #f9cb8f calc(50% - 20px), #f9cb8f calc(50% + 25px), #7b3c2d calc(50% + 25px), #7b3c2d calc(50% + 70px), #f2f2f2 calc(50% + 70px), #f2f2f2 calc(100% - 15px), transparent calc(100% - 15px), transparent 100% ) 1 0 round;
+border-image: -moz-linear-gradient( left, transparent 0, transparent 15px, #f2f2f2 15px, #f2f2f2 -moz-calc(50% - 65px), #7b3c2d -moz-calc(50% - 65px), #7b3c2d -moz-calc(50% - 20px), #f9cb8f -moz-calc(50% - 20px), #f9cb8f -moz-calc(50% + 25px), #7b3c2d -moz-calc(50% + 25px), #7b3c2d -moz-calc(50% + 70px), #f2f2f2 -moz-calc(50% + 70px), #f2f2f2 -moz-calc(100% - 15px), transparent -moz-calc(100% - 15px), transparent 100% ) 1 0 round;
+border-image: linear-gradient( left, transparent 0, transparent 15px, #f2f2f2 15px, #f2f2f2 calc(50% - 65px), #7b3c2d calc(50% - 65px), #7b3c2d calc(50% - 20px), #f9cb8f calc(50% - 20px), #f9cb8f calc(50% + 25px), #7b3c2d calc(50% + 25px), #7b3c2d calc(50% + 70px), #f2f2f2 calc(50% + 70px), #f2f2f2 calc(100% - 15px), transparent calc(100% - 15px), transparent 100% ) 1 0 round;
+}
+
+
+#top_panel i{
+color: #7b3c2d;
+}
+#top_panel,
+        #page_title_section,
+        #top_panel_social .social_icon{
+color: #ffffff;
+}
+#site_header,
+#mobile_header{
+background-color:rgba(123,60,45,0.5);
+}
+#main_menu > .menu-item{
+color: #ffffff;
+}
+#main_menu.sandwich .sandwich_switcher .ham,
+#main_menu.sandwich .sandwich_switcher .ham:before,
+#main_menu.sandwich .sandwich_switcher .ham:after,
+#mobile_header .sandwich_switcher .ham,
+#mobile_header .sandwich_switcher .ham:before,
+#mobile_header .sandwich_switcher .ham:after{
+background-color: #ffffff;
+}
+
+#header_wrapper{
+background-color: #7b3c2d;
+}
+
+#header_wrapper{
+background-image: url(https://www.shibumi.org.in/wp-content/uploads/2019/11/11-1.jpg);
+}
+
+
+#footer_widgets{
+background-color: 	#7b3c2d;
+color:				#eee7c9;
+}
+#footer_widgets .carousel_nav > *{
+color: 			#eee7c9;
+border-color:	#eee7c9;
+}
+#footer_widgets h1,
+#footer_widgets h2,
+#footer_widgets h3,
+#footer_widgets h4,
+#footer_widgets h5,
+#footer_widgets h6,
+#footer_widgets i,
+#footer_widgets .carousel_nav > *:hover,
+#footer_widgets .widget ul a,
+#footer_widgets .widget.custom_color input[type='submit']:hover,
+#footer_widgets .widget input,
+#footer_widgets .widget textarea{
+color:			#7b3c2d;
+}
+#footer_widgets .widget_icon{
+color: #7b3c2d !important;
+}
+#footer_widgets .carousel_nav > *:hover{
+border-color:	#7b3c2d;
+}
+#footer_widgets .widget_header .carousel_nav > *:hover{
+background-color: #7b3c2d;
+}
+
+
+#site_footer{
+background-color: #673226;
+color: #eee7c9;
+}
+#footer_social .social_icon{
+color: #eee7c9;
+}
+
+
+#document > #wpadminbar{
+margin-top: auto;
+}
+
+
+#page_title {
+    color:#fff;
+    }
+    .author_status {
+    color: #f27c66;
+    }
+    .bold {
+    font-weight: bold;
+    }
+    #sticky_box {
+    background-color: #7b3c2d;
+    }
+    .main_menu .menu-item {
+    color: #ffffff;
+    text-transform: uppercase;
+    }
+    #main_menu > .menu-item.current-menu-item, .main_menu .menu-item.current-menu-item, .main_menu .menu-item.current-menu-ancestor {
+    color: #eee7c9;
+    }
+    #main_menu > .menu-item.current-menu-ancestor, .main_menu .menu-item > a:hover {
+    color: #eee7c9;
+    }
+    .main_menu .sub-menu {
+    background-color: #7b3c2d;
+    }
+    .menu-button > a {
+    background-color:#f9cb8f;
+    /* height: 10px; */
+    margin: auto 10px;
+    border-radius: 10px;
+    color: #7b3c2d !important;
+    font-weight:bold;
+    padding: 8px 12px !important;
+    }
+    #mobile_header, #mobile_menu_wrapper {
+    background-color: #7b3c2d;
+    }
+    #mobile_header .menu-button > a {
+    margin: auto;
+    }
+    #mobile_header .menu-button {
+    padding-top: 10px;
+    }
+    #header_wrapper {
+    height: 660px;
+    }
+    .widget_post_terms {
+    display:none;
+    }
+    .widgettitle { color:#7b3c2d;
+    }
+    a, ul li::before, ul.custom_icon_style .list_list, q::before, q::after, .main_menu .menu-item:hover, .main_menu .menu-item.current-menu-item, .main_menu .menu-item.current-menu-ancestor, #main_menu > .menu-item:hover, #main_menu > .menu-item.current-menu-item, #main_menu > .menu-item.current-menu-ancestor, #page_title, #page_title_section .bread-crumbs a:hover, .widget ul a:hover, .widget .social_icon, .latest_tweets .tweet::before, .gallery_post_carousel_nav:hover, h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hover, .post_posts_grid_post_content.read_more_alt .more-link:hover, .post_post_terms, .cws_portfolio_post_terms, #comments .comments_number, #comments .author_name, .wp-playlist-light .wp-playlist-current-item::before, .wp-playlist-light .wp-playlist-tracks .wp-playlist-playing, .cws_staff_post_terms.single_post_terms, #footer_widgets .widget ul a:hover, #footer_social .social_icon:hover, #banner_404_title, .unilearn_icon, .unilearn_icon.alt.hovered:hover, .banner_icon, .unilearn_milestone, .unilearn_services_title, .unilearn_services_column:hover .unilearn_services_icon i, .testimonial .author_status, .pricing_plan_price, .vc_images_carousel .vc_carousel-control .icon-next:hover, .vc_images_carousel .vc_carousel-control .icon-prev:hover, .cws_twitter .cws_twitter_icon i, .select2-results .select2-highlighted, .widget_icon, .cws_megamenu_item .widget.widget_nav_menu .menu-item:hover, .cws_megamenu_item .widget.widget_nav_menu .menu-item:hover > a, .cws_megamenu_item .widget.widget_nav_menu .menu-item:hover > span, .cws_megamenu_item .widget.widget_nav_menu .menu-item:hover > .pointer, .cta_icon, span.wpcf7-form-control-wrap:first-of-type:last-of-type:first-child input.wpcf7-validates-as-required.wpcf7-not-valid + .wpcf7-not-valid-tip::after {
+    color: #fff;
+    }
